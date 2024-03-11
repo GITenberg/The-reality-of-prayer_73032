@@ -1,0 +1,41 @@
+_repo: The-reality-of-prayer_73032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bounds, Edward M. (Edward McKendree)
+    aliases:
+    - Bounds, E. M. (Edward McKendree)
+    - Bounds, Edward McKendree
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '52476'
+    url: http://www.gutenberg.org/2009/agents/52476
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McKendree_Bounds
+  editor:
+    agent_name: Hodge, Homer W. (Homer Werle)
+    birthdate: 1859
+    gutenberg_agent_id: '55847'
+    url: http://www.gutenberg.org/2009/agents/55847
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73032'
+  lccn: '24013485'
+language: en
+pgterms:marc905: 20201010205652bounds
+pgterms:marc906: 1924`
+pgterms:marc907: us
+production_note: Brian Wilson, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net.
+publication_note: '  $aNew York :$bFlemming H. Revell Company, $c1924`.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer -- Christianity'
+- !lcsh 'Jesus Christ -- Prayers'
+- !lcc 'BV'
+- GITenberg
+title: The reality of prayer
+url: http://www.gutenberg.org/ebooks/73032
